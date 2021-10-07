@@ -1,2 +1,1 @@
 this is a document
-line for feature A.
