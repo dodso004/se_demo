@@ -1,3 +1,4 @@
 this is a document
+<<<<<<< HEAD
 commit for css
 another commit for css
